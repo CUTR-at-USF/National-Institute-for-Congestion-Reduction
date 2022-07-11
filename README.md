@@ -4,7 +4,7 @@ A list of software resources for projects funded under National Institute for Co
 
 ### Influencing Travel Behavior via Open Source Platform - Evaluating the Accuracy of Smartphone-Based Travel Behavior Data
 
-https://nicr.usf.edu/2020/12/11/3-1-influencing-travel-behavior-via-open-source-platform/
+See more details for this project, including the final report, on the [NICR website](https://nicr.usf.edu/2020/12/11/3-1-influencing-travel-behavior-via-open-source-platform/).
 
 #### Repositories
 * [onebusaway-firebase-export](https://github.com/CUTR-at-USF/onebusaway-firebase-export) - Java application to process travel behavior data collected by opt-in users of the [OneBusAway Android app](https://github.com/OneBusAway/onebusaway-android) and stored in Firebase Firestore.
