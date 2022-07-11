@@ -7,8 +7,8 @@ A list of software resources for projects funded under National Institute for Co
 https://nicr.usf.edu/2020/12/11/3-1-influencing-travel-behavior-via-open-source-platform/
 
 #### Repositories
-* https://github.com/CUTR-at-USF/onebusaway-travel-behavior-analysis - Python utilities to process and analyze travel behavior data collected by OneBusAway and exported as csv file by https://github.com/CUTR-at-USF/onebusaway-firebase-export
-* https://github.com/CUTR-at-USF/onebusaway-firebase-export - Java application to process travel behavior data collected by OneBusAway (https://github.com/OneBusAway/onebusaway-android) and stored in Firebase Firestore.
+* [onebusaway-firebase-export](https://github.com/CUTR-at-USF/onebusaway-firebase-export) - Java application to process travel behavior data collected by opt-in users of the [OneBusAway Android app](https://github.com/OneBusAway/onebusaway-android) and stored in Firebase Firestore.
+* [onebusaway-travel-behavior-analysis](https://github.com/CUTR-at-USF/onebusaway-travel-behavior-analysis) - Python utilities to process and analyze travel behavior data collected by OneBusAway and exported as csv file by [onebusaway-firebase-export](https://github.com/CUTR-at-USF/onebusaway-firebase-export).
 
 ## License
 
