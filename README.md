@@ -1,6 +1,6 @@
 # National Institute for Congestion Reduction
 
-A list of software resources created for projects funded under National Institute for Congestion Reduction (NICR) (https://nicr.usf.edu/).
+A list of software resources created for projects funded under [National Institute for Congestion Reduction (NICR)](https://nicr.usf.edu/).
 
 ### Influencing Travel Behavior via Open Source Platform - Evaluating the Accuracy of Smartphone-Based Travel Behavior Data
 
