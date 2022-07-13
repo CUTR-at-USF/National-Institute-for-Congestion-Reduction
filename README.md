@@ -1,4 +1,4 @@
-# National Institute for Congestion Reduction [![RSS](https://img.shields.io/badge/Subscribe-RSS-blue.svg)](https://github.com/CUTR-at-USF/National-Institute-for-Congestion-Reduction/commits/master.atom)
+# National Institute for Congestion Reduction [![RSS](https://img.shields.io/badge/Subscribe-RSS-blue.svg)](https://github.com/CUTR-at-USF/National-Institute-for-Congestion-Reduction/commits/main.atom)
 
 A list of software resources created for projects funded under [National Institute for Congestion Reduction (NICR)](https://nicr.usf.edu/).
 
